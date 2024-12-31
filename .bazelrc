@@ -1,0 +1,2 @@
+build --swiftcopt=-driver-show-job-lifecycle
+build --swiftcopt=-driver-show-incremental
